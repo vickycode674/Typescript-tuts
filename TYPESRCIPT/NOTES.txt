@@ -1,0 +1,4 @@
+
+*Typescript is a language where it check every error thorugh out the typing with running it
+
+*It is a super set of javascript and present trending form of the whole universe
